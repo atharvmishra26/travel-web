@@ -90,7 +90,7 @@
 		"abbreviation": "CH",
 		"region": "Center",
 		"image_url": "https://media.california.com/media/_versions_webp/articles/downtown_san_francisco__3500x2335____v400x294__crop.webp",
-		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls, and minerals.",
+		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls",
 		"famous_foods": [
 			{
 				"name": "Farra",
@@ -450,98 +450,98 @@
 		"description": "Sikkim is a state in northeastern India known for its natural beauty, biodiversity, and as a popular destination for adventure tourism.",
 		"famous_foods": [
 			{
-				"name": "Michigan Cherry Pie",
+				"name": "Thukpa",
 				"image_url": "/images/michigan-cherry-pie.jpg",
-				"description": "Michigan cherry pie is a popular dish in Michigan, where it's often served with a side of ice cream."
+				"description": "Thukpa is a popular noodle soup that originated in the Tibetan culture and is commonly consumed in the Himalayan region, including Sikkim. It is made with a variety of vegetables, meat or tofu, and noodles, all cooked in a savory broth with spices."
 			},
 			{
-				"name": "Michigan Cherry Soup",
+				"name": "Gundruk and Sinki Soup",
 				"image_url": "/images/michigan-cherry-soup.jpg",
-				"description": "Michigan cherry soup is a staple in Michigan cuisine, where it's often served with a side of ice cream."
+				"description": "Gundruk and Sinki Soup is a traditional Sikkimese soup made by fermenting leafy vegetables and bamboo shoots, which are then dried and preserved. The fermented vegetables are then rehydrated and boiled in a broth with spices and served hot."
 			}
 		]
 	},
 	{
-		"name": "Minnesota",
-		"capital": "Saint Paul",
-		"largest_city": "Minneapolis",
-		"abbreviation": "MN",
-		"region": "Midwest",
+		"name": "Tamil Nadu",
+		"capital": "Chennai",
+		"largest_city": "Chennai",
+		"abbreviation": "TN",
+		"region": "South",
 		"image_url": "https://saint-paul-2022.s3.amazonaws.com/images/st._paul_skyline.jpg?v=1652382070",
-		"description": "Minnesota is a U.S. state located in the Midwest.",
+		"description": "Tamil Nadu is a southern state of India known for its rich cultural heritage, ancient temples, and traditional cuisine.",
 		"famous_foods": [
 			{
-				"name": "Minnesota Hot Dish",
+				"name": "Dosai",
 				"image_url": "/images/minnesota-hot-dish.jpg",
-				"description": "Minnesota hot dish is a popular dish in Minnesota, where it's often served with a side of mashed potatoes."
+				"description": "Dosai is a thin, crispy pancake made from a batter of fermented rice and urad dal (lentils) and can be made plain or with various fillings, such as potatoes or onions."
 			},
 			{
-				"name": "Minnesota Wild Rice Soup",
+				"name": "Idli",
 				"image_url": "/images/minnesota-wild-rice-soup.jpg",
-				"description": "Minnesota wild rice soup is a staple in Minnesota cuisine, where it's often served with a side of mashed potatoes."
+				"description": "Idli is a steamed cake made from the same batter and is usually served as a breakfast dish."
 			}
 		]
 	},
 	{
-		"name": "Mississippi",
-		"capital": "Jackson",
-		"largest_city": "Jackson",
-		"abbreviation": "MS",
+		"name": "Telangana",
+		"capital": "Hyderabad",
+		"largest_city": "Hyderabad",
+		"abbreviation": "TG",
 		"region": "South",
 		"image_url": "https://cdn.britannica.com/63/93563-050-65FC416F/State-capitol-building-cityscape-Jackson-Miss.jpg",
-		"description": "Mississippi is a U.S. state located in the South.",
+		"description": "Telangana is a state located in southern India, known for its rich history, cultural heritage, and delicious cuisine.",
 		"famous_foods": [
 			{
-				"name": "Mississippi Catfish",
+				"name": "Hyderabadi Biryani",
 				"image_url": "/images/mississippi-catfish.jpg",
-				"description": "Mississippi catfish is a popular dish in Mississippi, where it's often served with a side of hushpuppies."
+				"description": "Hyderabadi Biryani is made with layers of spiced basmati rice and tender meat, usually chicken or lamb, that is cooked in a pot with aromatic spices and served with a side of raita and salan, which is a sour and spicy gravy made with peanuts, tamarind, and a blend of spices."
 			},
 			{
-				"name": "Mississippi Gumbo",
+				"name": "Gongura Pachadi",
 				"image_url": "/images/mississippi-gumbo.jpg",
-				"description": "Mississippi gumbo is a staple in Mississippi cuisine, where it's often served with a side of hushpuppies."
+				"description": "Gongura Pachadi is a tangy and spicy chutney that is made with fresh sorrel leaves, chili peppers, ginger, and garlic, which are blended together to create a flavorful paste that is then tempered with mustard seeds and curry leaves. The chutney is typically served as a condiment with rice or roti."
 			}
 		]
 	},
 	{
-		"name": "Missouri",
-		"capital": "Jefferson City",
-		"largest_city": "Kansas City",
-		"abbreviation": "MO",
-		"region": "Midwest",
+		"name": "Tripura",
+		"capital": "Agartala",
+		"largest_city": "Agartala",
+		"abbreviation": "TR",
+		"region": "Northeast",
 		"image_url": "https://www.worldatlas.com/upload/16/a2/14/shutterstock-1901321050.jpg",
-		"description": "Missouri is a U.S. state located in the Midwest.",
+		"description": "Tripura is a state located in northeastern India known for its scenic beauty, rich culture, and unique handicrafts.",
 		"famous_foods": [
 			{
-				"name": "Missouri Ribs",
+				"name": "Gudok",
 				"image_url": "/images/missouri-ribs.jpg",
-				"description": "Missouri ribs are a popular dish in Missouri, where they're often served with a side of fries."
+				"description": "Gudok is made with boiled vegetables and fermented fish."
 			},
 			{
-				"name": "Missouri Stew",
+				"name": "Muya Bai Wahan Chakhwi",
 				"image_url": "/images/missouri-stew.jpg",
-				"description": "Missouri stew is a staple in Missouri cuisine, where it's often served with a side of fries."
+				"description": "Muya bai wahan chakhwi is a pork dish that is cooked with bamboo shots, jackfruit and papaya. Firstly the pork meat is chopped in medium size, and then it is seasoned with lemon leaves and chillies."
 			}
 		]
 	},
 	{
-		"name": "Montana",
-		"capital": "Helena",
-		"largest_city": "Billings",
-		"abbreviation": "MT",
-		"region": "West",
+		"name": "Uttar Pradesh",
+		"capital": "Lucknow",
+		"largest_city": "Kanpur",
+		"abbreviation": "UP",
+		"region": "North",
 		"image_url": "https://southwestmt.com/blog-content/2021/08/Helena-from-above-the-Gulch-Rick-and-Susie-Graetz-scaled.jpg",
-		"description": "Montana is a U.S. state located in the West.",
+		"description": "Uttar Pradesh is a state in northern India known for its rich cultural heritage, historic monuments, and diverse cuisine.",
 		"famous_foods": [
 			{
-				"name": "Montana Steak",
+				"name": "Tunday Kebab",
 				"image_url": "/images/montana-steak.jpg",
-				"description": "Montana steak is a popular dish in Montana, where it's often served with a side of baked potatoes."
+				"description": "Tunday Kebab is a famous Lucknowi dish made from minced meat (usually beef or mutton) marinated in various spices, and then shaped into patties and grilled on skewers. It is typically served with mint chutney and lemon wedges."
 			},
 			{
-				"name": "Montana Chili",
+				"name": "Aloo Samosa",
 				"image_url": "/images/montana-chili.jpg",
-				"description": "Montana chili is a staple in Montana cuisine, where it's often served with a side of baked potatoes."
+				"description": "Aloo Samosa is a popular snack across India, but it has its roots in Uttar Pradesh. It is a triangular-shaped pastry filled with spiced potatoes and peas, and is usually deep-fried. It can be eaten on its own or served with chutney or sauce."
 			}
 		]
 	},
