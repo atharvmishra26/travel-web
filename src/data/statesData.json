@@ -546,44 +546,44 @@
 		]
 	},
 	{
-		"name": "Nebraska",
-		"capital": "Lincoln",
-		"largest_city": "Omaha",
-		"abbreviation": "NE",
-		"region": "Midwest",
+		"name": "Uttarakhand",
+		"capital": "Dehradun",
+		"largest_city": "Dehradun",
+		"abbreviation": "UK",
+		"region": "North",
 		"image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/1d/lincoln.jpg?w=700&h=-1&s=1",
-		"description": "Nebraska is a U.S. state located in the Midwest.",
+		"description": "Uttarakhand is a state in northern India known for its scenic beauty, pilgrimage sites, and adventure tourism.",
 		"famous_foods": [
 			{
-				"name": "Nebraska Steak",
+				"name": "Kafuli",
 				"image_url": "/images/nebraska-steak.jpg",
-				"description": "Nebraska steak is a popular dish in Nebraska, where it's often served with a side of baked potatoes."
+				"description": "Kafuli is a traditional dish from Uttarakhand that is made with a mix of leafy greens like spinach, fenugreek, and other greens, which are finely chopped and then cooked with spices like garlic, cumin, and coriander. The dish has a distinct green color and is typically served with steamed rice or chapati."
 			},
 			{
-				"name": "Nebraska Chili",
+				"name": "Bal Mithai",
 				"image_url": "/images/nebraska-chili.jpg",
-				"description": "Nebraska chili is a staple in Nebraska cuisine, where it's often served with a side of baked potatoes."
+				"description": "Bal Mithai is a popular sweet from Uttarakhand made with evaporated milk, khoya (reduced milk), and coated with tiny sugar balls called boora. The mixture is then rolled into small bite-sized balls and served. Some variations of Bal Mithai are also flavored with cardamom or chocolate. It is considered a delicacy in the state and is often given as a gift or eaten during special occasions."
 			}
 		]
 	},
 	{
-		"name": "Nevada",
-		"capital": "Carson City",
-		"largest_city": "Las Vegas",
-		"abbreviation": "NV",
-		"region": "West",
+		"name": "West Bengal",
+		"capital": "Kolkata",
+		"largest_city": "Kolkata",
+		"abbreviation": "WB",
+		"region": "East",
 		"image_url": "https://www.bankrate.com/2023/01/04160719/cost-of-living-in-vegas.jpg?auto=webp&optimize=high",
-		"description": "Nevada is a U.S. state located in the West.",
+		"description": "West Bengal is a state in eastern India known for its cultural richness, colonial heritage, and delectable cuisine.",
 		"famous_foods": [
 			{
-				"name": "Nevada Steak",
+				"name": "Fish curry",
 				"image_url": "/images/nevada-steak.jpg",
-				"description": "Nevada steak is a popular dish in Nevada, where it's often served with a side of baked potatoes."
+				"description": "Fish curry is a staple dish in West Bengal due to its proximity to the Bay of Bengal and its abundance of fresh seafood. The curry is typically made with fish such as Rohu, Hilsa, or Pabda and is cooked in a spicy tomato-based sauce with a variety of spices such as mustard seeds, cumin, and turmeric. It is often served with steamed rice and sometimes with a side of vegetables."
 			},
 			{
-				"name": "Nevada Chili",
+				"name": "Rosogolla",
 				"image_url": "/images/nevada-chili.jpg",
-				"description": "Nevada chili is a staple in Nevada cuisine, where it's often served with a side of baked potatoes."
+				"description": "Rosogolla, also known as Rasgulla, is a popular dessert in West Bengal and is made by kneading chhena, a type of cottage cheese, and shaping it into small balls, which are then boiled in a sugar syrup. The result is a spongy, syrupy sweet that is a favorite among Bengalis and is often served at special occasions such as weddings and festivals."
 			}
 		]
 	},
