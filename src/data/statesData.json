@@ -1,138 +1,138 @@
 [
 	{
-		"name": "Alabama",
-		"capital": "Montgomery",
-		"largest_city": "Birmingham",
-		"abbreviation": "AL",
-		"region": "South",
+		"name": "Andhra Pradesh",
+		"capital": "Visakhapatnam",
+		"largest_city": "Visakhapatnam",
+		"abbreviation": "AP",
+		"region": "Southeastern",
 		"image_url": "https://static01.nyt.com/images/2022/07/27/opinion/27kaiserschatzlein-9/merlin_210625494_5318b712-c310-479d-b1b8-b6d972dfa454-mobileMasterAt3x.jpg",
-		"description": "Alabama is a southeastern U.S. state that’s home to significant landmarks from the American Civil Rights Movement.",
+		"description": "Andhra Pradesh, located in southeastern India, is known for its rich history, natural beauty, diverse cuisine, ancient temples, and traditional arts and crafts.",
 		"famous_foods": [
 			{
-				"name": "Fried Chicken",
+				"name": "Hyderabadi Biryani",
 				"image_url": "/images/fried-chicken.jpg",
-				"description": "Crispy and delicious fried chicken is a staple in Alabama cuisine."
+				"description": "Hyderabadi Biryani is a fragrant rice dish from Hyderabad, usually made with meat and a blend of aromatic spices."
 			},
 			{
-				"name": "Shrimp and Grits",
+				"name": " Andhra-style Chicken Fry",
 				"image_url": "/images/shrimp-grits.jpg",
-				"description": "This Southern classic is a must-try in Alabama, where it's often served with spicy andouille sausage."
+				"description": "Andhra-style Chicken Fry is a spicy and crispy deep-fried chicken dish marinated in a blend of aromatic spices."
 			}
 		]
 	},
 	{
-		"name": "Alaska",
-		"capital": "Juneau",
-		"largest_city": "Anchorage",
-		"abbreviation": "AK",
-		"region": "West",
+		"name": "Arunachal Pradesh",
+		"capital": " Itanagar",
+		"largest_city": " Itanagar.",
+		"abbreviation": "AP",
+		"region": "Northeast",
 		"image_url": "https://uploads.alaska.org/advice/_640x560_crop_center-center_65_none/homepage-step1.jpg?mtime=20201111130705&focal=none&tmtime=20210629051457",
-		"description": "Alaska is a U.S. state located in the northwest extremity of the North American continent.",
+		"description": "Arunachal Pradesh, located in Northeast India, is a scenic state known for its Himalayan Mountains, diverse ethnic cultures, and wildlife.",
 		"famous_foods": [
 			{
-				"name": "Salmon",
+				"name": "Thukpa",
 				"image_url": "/images/salmon.jpg",
-				"description": "Alaska is known for its fresh and delicious salmon, which can be enjoyed grilled, smoked, or even raw."
+				"description": "A noodle soup made with vegetables, meat, and sometimes, eggs."
 			},
 			{
-				"name": "Reindeer Sausage",
+				"name": "Momos",
 				"image_url": "/images/reindeer-sausage.jpg",
-				"description": "This unique sausage made from reindeer meat is a popular food in Alaska, particularly in the city of Anchorage."
+				"description": "Steamed dumplings filled with meat or vegetables, served with spicy tomato or chili sauce."
 			}
 		]
 	},
 	{
-		"name": "Arizona",
-		"capital": "Phoenix",
-		"largest_city": "Phoenix",
-		"abbreviation": "AZ",
-		"region": "West",
+		"name": "Assam",
+		"capital": "Dispur",
+		"largest_city": "Guwahati",
+		"abbreviation": "AS",
+		"region": "Northeast",
 		"image_url": "https://lp-cms-production.imgix.net/2021-04/GettyImages-1282955095.jpg",
-		"description": "Arizona is a southwestern U.S. state known for its deserts, beautiful canyons, and rugged mountain ranges.",
+		"description": "Assam in Northeast India is a state known for its tea gardens, national parks, ethnic diversity, and vibrant festivals like Bihu.",
 		"famous_foods": [
 			{
-				"name": "Tacos",
+				"name": "Assam Tea",
 				"image_url": "/images/tacos.jpg",
-				"description": "Arizona has a strong Mexican influence, which means you'll find plenty of delicious tacos throughout the state."
+				"description": "A strong, malty-flavored black tea that is famous around the world."
 			},
 			{
-				"name": "Navajo Fry Bread",
+				"name": "Masor Tenga",
 				"image_url": "/images/fry-bread.jpg",
-				"description": "This traditional Native American food is a popular dish in Arizona, often served with honey or jam."
+				"description": " A sour fish curry made with tomatoes and lemon, a signature dish of Assamese cuisine."
 			}
 		]
 	},
 	{
-		"name": "Arkansas",
-		"capital": "Little Rock",
-		"largest_city": "Little Rock",
-		"abbreviation": "AR",
-		"region": "South",
+		"name": "Bihar",
+		"capital": "Patna",
+		"largest_city": "Patna",
+		"abbreviation": "BH",
+		"region": "East",
 		"image_url": "https://d3qvqlc701gzhm.cloudfront.net/thumbs/0acef01816a88ac9f070b16071e1173dd2dc1bbe99cff0c24180a3cdffa0e81b-750.jpg",
-		"description": "Arkansas is a U.S. state located in the southeastern region of the country.",
+		"description": "Bihar, located in East India, is a state known for its rich history, cultural heritage, and religious significance, as well as for producing famous intellectuals and leaders.",
 		"famous_foods": [
 			{
-				"name": "Catfish",
+				"name": "Litti Chokha",
 				"image_url": "/images/catfish.jpg",
-				"description": "Catfish is a popular food in Arkansas, where it's often served fried and topped with tartar sauce."
+				"description": " A traditional dish made of roasted wheat balls stuffed with sattu (gram flour), served with mashed potatoes, brinjal, and tomato chutney."
 			},
 			{
-				"name": "Pecan Pie",
+				"name": "Chana Ghugni",
 				"image_url": "/images/pecan-pie.jpg",
-				"description": "Pecan pie is a staple in Arkansas cuisine, where it's often served with a scoop of vanilla ice cream."
+				"description": "A spicy curry made of black gram and potatoes, garnished with chopped onions, green chilies, and coriander leaves, often served with puri or paratha."
 			}
 		]
 	},
 	{
-		"name": "California",
-		"capital": "Sacramento",
-		"largest_city": "Los Angeles",
-		"abbreviation": "CA",
-		"region": "West",
+		"name": "Chhattisgarh",
+		"capital": "Raipur",
+		"largest_city": "Raipur",
+		"abbreviation": "CH",
+		"region": "Center",
 		"image_url": "https://media.california.com/media/_versions_webp/articles/downtown_san_francisco__3500x2335____v400x294__crop.webp",
-		"description": "California is a U.S. state located on the West Coast of the country.",
+		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls, and minerals.",
 		"famous_foods": [
 			{
-				"name": "Avocado Toast",
+				"name": "Farra",
 				"image_url": "/images/avocado-toast.jpg",
-				"description": "Avocado toast is a popular breakfast dish in California, where it's often served with a poached egg."
+				"description": " A steamed dumpling made of rice flour or wheat flour, stuffed with a mixture of chana dal, spices, and vegetables like peas, carrot, or beans, served with spicy chutney."
 			},
 			{
-				"name": "Tacos",
+				"name": "Chila",
 				"image_url": "/images/tacos.jpg",
-				"description": "California is known for its delicious tacos, which can be enjoyed in a variety of different styles."
+				"description": "A pancake-like dish made of gram flour, onion, tomatoes, coriander leaves, and spices, cooked on a griddle, and served with chutney or yogurt, popular for breakfast or snack."
 			}
 		]
 	},
 	{
-		"name": "Colorado",
-		"capital": "Denver",
-		"largest_city": "Denver",
-		"abbreviation": "CO",
+		"name": "Goa",
+		"capital": "Panjim",
+		"largest_city": "Vasco da Gama",
+		"abbreviation": "GA",
 		"region": "West",
 		"image_url": "https://kdvr.com/wp-content/uploads/sites/11/2022/11/GettyImages-1292267805.jpg",
-		"description": "Colorado is a U.S. state located in the Rocky Mountains region of the country.",
+		"description": "Goa, a small state in western India, is known for its pristine beaches, colonial-era architecture, vibrant nightlife, rich history, and diverse cuisine that blends Indian, Portuguese, and seafood influences.",
 		"famous_foods": [
 			{
-				"name": "Green Chili",
+				"name": "Fish Curry",
 				"image_url": "/images/green-chili.jpg",
-				"description": "Green chili is a popular dish in Colorado, where it's often served with eggs, potatoes, and tortillas."
+				"description": "A spicy and tangy curry made with fresh fish, coconut milk, and spices like cumin, coriander, turmeric, and red chili, served with rice or bread."
 			},
 			{
-				"name": "Denver Omelette",
+				"name": "Bebinca",
 				"image_url": "/images/denver-omelette.jpg",
-				"description": "This omelette is a staple in Colorado cuisine, where it's often served with green chili and cheese."
+				"description": "A multi-layered pudding made with coconut milk, eggs, flour, sugar, and nutmeg, baked in a hot oven until golden brown and served as a dessert."
 			}
 		]
 	},
 	{
-		"name": "Connecticut",
-		"capital": "Hartford",
-		"largest_city": "Bridgeport",
-		"abbreviation": "CT",
-		"region": "Northeast",
+		"name": "Gujarat",
+		"capital": "Gandhinagar",
+		"largest_city": "Ahmedabad",
+		"abbreviation": "GJ",
+		"region": "West",
 		"image_url": "https://hartford.com/wp-content/uploads/2022/03/hartford-connecticut-usa-downtown-cityscape.jpg",
-		"description": "Connecticut is a northeastern U.S. state known for its beautiful coastline and historic cities.",
+		"description": "Gujarat is a western Indian state known for its rich cultural heritage, historic landmarks, vibrant textile industry, and mouth-watering vegetarian cuisine.",
 		"famous_foods": [
 			{
 				"name": "Clam Chowder",
