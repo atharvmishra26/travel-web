@@ -7,7 +7,7 @@ const FoodPage = () => {
     return (
         <>
             <Head>
-                <title>Famous Foods - Explore USA</title>
+                <title>Famous Foods - Explore India</title>
                 <meta name="description" content="Welcome to Explore USA! Discover the best places to visit, the most delicious foods to try, and the unique specials of each state in the United States." />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
