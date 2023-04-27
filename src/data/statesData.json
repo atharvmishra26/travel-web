@@ -135,319 +135,319 @@
 		"description": "Gujarat is a western Indian state known for its rich cultural heritage, historic landmarks, vibrant textile industry, and mouth-watering vegetarian cuisine.",
 		"famous_foods": [
 			{
-				"name": "Clam Chowder",
+				"name": "Dhokla",
 				"image_url": "/images/clam-chowder.jpg",
-				"description": "Clam chowder is a popular dish in Connecticut, where it's often served with a side of oyster crackers."
+				"description": "A steamed savory cake made from fermented batter of rice and chickpeas"
 			},
 			{
-				"name": "Steamed Clams",
+				"name": "Thepla",
 				"image_url": "/images/steamed-clams.jpg",
-				"description": "Steamed clams are a staple in Connecticut cuisine, where they're often served with a side of cornbread."
+				"description": "A spiced flatbread made from wheat flour, methi leaves, and spices."
 			}
 		]
 	},
 	{
-		"name": "Delaware",
-		"capital": "Dover",
-		"largest_city": "Wilmington",
-		"abbreviation": "DE",
-		"region": "South",
+		"name": "Haryana",
+		"capital": "Chandigarh",
+		"largest_city": " Faridabad",
+		"abbreviation": "HR",
+		"region": "North",
 		"image_url": "https://www.visitdelaware.com/sites/default/files/styles/top_experience_xxxl_est_main/public/2021-04/_P9I8723-HDR-Edit-2-Final%402x.png?itok=JmTueaO7",
-		"description": "Delaware is a U.S. state located on the Atlantic Coast of the country.",
+		"description": "Haryana is a state in northern India known for its agricultural industry and vibrant cultural heritage.",
 		"famous_foods": [
 			{
-				"name": "Soft Pretzels",
+				"name": "Kadhi",
 				"image_url": "/images/soft-pretzels.jpg",
-				"description": "Soft pretzels are a popular snack in Delaware, where they're often served with a side of mustard."
+				"description": "yogurt-based curry"
 			},
 			{
-				"name": "Chicken Cheesesteak",
+				"name": "Bajra Khichdi",
 				"image_url": "/images/chicken-cheesesteak.jpg",
-				"description": "This popular sandwich is a staple in Delaware cuisine, where it's often served with a side of fries."
+				"description": "A wholesome dish made with pearl millet and lentils."
 			}
 		]
 	},
 	{
-		"name": "Florida",
-		"capital": "Tallahassee",
-		"largest_city": "Jacksonville",
-		"abbreviation": "FL",
-		"region": "South",
+		"name": "Himachal Pradesh",
+		"capital": "Shimla",
+		"largest_city": "Shimla",
+		"abbreviation": "HP",
+		"region": "North",
 		"image_url": "https://www.state.gov/wp-content/uploads/2022/01/shutterstock_469708088.jpg",
-		"description": "Florida is a southeastern U.S. state known for its beautiful beaches and warm weather.",
+		"description": "Himachal Pradesh is a northern Indian state known for its scenic beauty, serene landscapes, and rich cultural heritage.",
 		"famous_foods": [
 			{
-				"name": "Key Lime Pie",
+				"name": "Chha Gosht",
 				"image_url": "/images/key-lime-pie.jpg",
-				"description": "Key lime pie is a popular dessert in Florida, where it's often served with a side of whipped cream."
+				"description": "Chha Gosht is a spicy lamb curry from Himachal Pradesh made with yogurt, ghee, and aromatic spices."
 			},
 			{
-				"name": "Shrimp",
+				"name": "Siddu",
 				"image_url": "/images/shrimp.jpg",
-				"description": "Shrimp is a staple in Florida cuisine, where it's often served with a side of rice and vegetables."
+				"description": "Siddu is a traditional dish from Himachal Pradesh made of steamed bread stuffed with a mixture of mashed potatoes, spices, and herbs."
 			}
 		]
 	},
 	{
-		"name": "Georgia",
-		"capital": "Atlanta",
-		"largest_city": "Atlanta",
-		"abbreviation": "GA",
-		"region": "South",
+		"name": "Jharkhand",
+		"capital": "Ranchi",
+		"largest_city": "Ranchi",
+		"abbreviation": "JH",
+		"region": "East",
 		"image_url": "https://www.exploregeorgia.org/sites/default/files/styles/slideshow_large/public/2022-06/tybee-pier-tybee-island-credit-benjamingalland.jpg?itok=ipHXREfM",
-		"description": "Georgia is a southeastern U.S. state known for its beautiful beaches and warm weather.",
+		"description": "Jharkhand is a state in eastern India known for its rich mineral resources and dense forests.",
 		"famous_foods": [
 			{
-				"name": "Peach Cobbler",
+				"name": "Dhuska",
 				"image_url": "/images/peach-cobbler.jpg",
-				"description": "Peach cobbler is a popular dessert in Georgia, where it's often served with a side of vanilla ice cream."
+				"description": "Dhuska is a crispy deep-fried rice pancake that is commonly served for breakfast or as a snack in Jharkhand."
 			},
 			{
-				"name": "Chicken and Waffles",
+				"name": "Rugda",
 				"image_url": "/images/chicken-and-waffles.jpg",
-				"description": "This popular dish is a staple in Georgia cuisine, where it's often served with a side of syrup."
+				"description": " Rugda is a spicy meat and potato curry that is a popular main course dish in the state's cuisine."
 			}
 		]
 	},
 	{
-		"name": "Hawaii",
-		"capital": "Honolulu",
-		"largest_city": "Honolulu",
-		"abbreviation": "HI",
-		"region": "West",
+		"name": "Karnataka",
+		"capital": " Bangalore",
+		"largest_city": " Bangalore",
+		"abbreviation": "KA",
+		"region": "South",
 		"image_url": "https://www.treksplorer.com/wp-content/uploads/things-to-do-in-honolulu.jpg",
-		"description": "Hawaii is a U.S. state located in the Pacific Ocean.",
+		"description": "Karnataka is a state in South India known for its rich cultural heritage, diverse cuisine, and beautiful landscapes, including forests, waterfalls, and beaches.",
 		"famous_foods": [
 			{
-				"name": "Hawaiian Pizza",
+				"name": "Bisi Bele Bath",
 				"image_url": "/images/hawaiian-pizza.jpg",
-				"description": "Hawaiian pizza is a popular dish in Hawaii, where it's often served with a side of pineapple juice."
+				"description": "Bisi Bele Bath is a flavorful rice dish cooked with a blend of spices, vegetables, and lentils."
 			},
 			{
-				"name": "Lomi Lomi Salmon",
+				"name": "Mysore Masala Dosa",
 				"image_url": "/images/lomi-lomi-salmon.jpg",
-				"description": "This popular dish is a staple in Hawaii cuisine, where it's often served with a side of rice."
+				"description": "Mysore Masala Dosa is a crispy rice crepe filled with spicy potato filling, popular as a breakfast or snack in Karnataka."
 			}
 		]
 	},
 	{
-		"name": "Idaho",
-		"capital": "Boise",
-		"largest_city": "Boise",
-		"abbreviation": "ID",
-		"region": "West",
+		"name": "Kerala",
+		"capital": "Thiruvananthapuram",
+		"largest_city": "Kochi",
+		"abbreviation": "KL",
+		"region": "South",
 		"image_url": "https://www.bankrate.com/2023/01/10112041/buying-a-house-in-idaho.jpg?auto=webp&optimize=high",
-		"description": "Idaho is a U.S. state located in the Pacific Northwest.",
+		"description": "Kerala is a state on the southwestern coast of India known for its palm-lined beaches, backwaters, and network of canals.",
 		"famous_foods": [
 			{
-				"name": "Baked Potato",
+				"name": "Appam",
 				"image_url": "/images/baked-potato.jpg",
-				"description": "Baked potatoes are a popular side dish in Idaho, where they're often served with a side of sour cream."
+				"description": "Appam is a fermented rice and coconut pancake, which is soft and spongy in texture and is usually served with a coconut-based stew."
 			},
 			{
-				"name": "Fried Potatoes",
+				"name": "Fish Curry",
 				"image_url": "/images/fried-potatoes.jpg",
-				"description": "Fried potatoes are a staple in Idaho cuisine, where they're often served with a side of eggs."
+				"description": "Fish Curry is a spicy and tangy curry that is made with coconut milk, tamarind, and a blend of aromatic spices, and is usually served with steamed rice or Appam."
 			}
 		]
 	},
 	{
-		"name": "Illinois",
-		"capital": "Springfield",
-		"largest_city": "Chicago",
-		"abbreviation": "IL",
-		"region": "Midwest",
+		"name": "Madhya Pradesh",
+		"capital": " Bhopal",
+		"largest_city": "Indore",
+		"abbreviation": "MP",
+		"region": "Middle",
 		"image_url": "https://www.travelandleisure.com/thmb/wwUPgdpCUuD5sAPFLQf4YasjH0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicago-illinois-CHITG0221-e448062fc5164da0bba639f9857987f6.jpg",
-		"description": "Illinois is a U.S. state located in the Midwest.",
+		"description": "Madhya Pradesh is a large central Indian state known for its rich cultural heritage, ancient temples, and diverse wildlife.",
 		"famous_foods": [
 			{
-				"name": "Deep Dish Pizza",
+				"name": "Dal Bafla",
 				"image_url": "/images/deep-dish-pizza.jpg",
-				"description": "Deep dish pizza is a popular dish in Illinois, where it's often served with a side of garlic bread."
+				"description": "Dal Bafla is a staple food of Madhya Pradesh consisting of baked wheat dough balls served with a spicy lentil curry."
 			},
 			{
-				"name": "Chicago Dog",
+				"name": "Bhutte Ka Kees",
 				"image_url": "/images/chicago-dog.jpg",
-				"description": "This popular hot dog is a staple in Illinois cuisine, where it's often served with a side of fries."
+				"description": "Bhutte Ka Kees is a popular street food made with grated corn, milk, and spices cooked together to form a creamy and flavorful dish."
 			}
 		]
 	},
 	{
-		"name": "Indiana",
-		"capital": "Indianapolis",
-		"largest_city": "Indianapolis",
-		"abbreviation": "IN",
-		"region": "Midwest",
+		"name": "Maharashtra",
+		"capital": "Mumbai",
+		"largest_city": "Mumbai",
+		"abbreviation": "MH",
+		"region": "West",
 		"image_url": "https://www.in.gov/core/assets/img/home-bg-images/monument-circle-min.jpg",
-		"description": "Indiana is a U.S. state located in the Midwest.",
+		"description": "Maharashtra is a state in western India known for its vibrant capital Mumbai, and famous for its diverse culture, history, and landmarks.",
 		"famous_foods": [
 			{
-				"name": "Hoosier Sugar Cream Pie",
+				"name": "Vada Pav",
 				"image_url": "/images/hoosier-sugar-cream-pie.jpg",
-				"description": "Hoosier sugar cream pie is a popular dessert in Indiana, where it's often served with a side of whipped cream."
+				"description": "Vada Pav is a popular vegetarian street food that originated in Mumbai, consisting of a deep-fried potato fritter called vada sandwiched between a bread bun called pav, often served with chutney and fried green chilies."
 			},
 			{
-				"name": "Hoosier Hot Dog",
+				"name": " Pav Bhaji",
 				"image_url": "/images/hoosier-hot-dog.jpg",
-				"description": "This popular hot dog is a staple in Indiana cuisine, where it's often served with a side of fries."
+				"description": " Pav Bhaji is a popular fast food dish consisting of a thick vegetable curry made with mashed vegetables, spices, and butter, served with toasted bread called pav. It is also a popular street food in Maharashtra and often served with diced onions and lemon wedges."
 			}
 		]
 	},
 	{
-		"name": "Iowa",
-		"capital": "Des Moines",
-		"largest_city": "Des Moines",
-		"abbreviation": "IA",
-		"region": "Midwest",
+		"name": "Manipur",
+		"capital": "Imphal",
+		"largest_city": "Imphal",
+		"abbreviation": "MN",
+		"region": "Northeast",
 		"image_url": "https://www.traveliowa.com/userdocs/cities/Skyline_at_night_-_Catch_Des_Moines.jpg?width=1920&format=jpg",
-		"description": "Iowa is a U.S. state located in the Midwest.",
+		"description": "Manipur is a state in northeastern India known for its natural beauty, diverse culture, and rich history.",
 		"famous_foods": [
 			{
-				"name": "Pork Tenderloin",
+				"name": "Chamthong",
 				"image_url": "/images/pork-tenderloin.jpg",
-				"description": "Pork tenderloin is a popular dish in Iowa, where it's often served with a side of mashed potatoes."
+				"description": "Chamthong is a popular Manipuri stew made with vegetables and fish or meat, seasoned with spices like ginger and garlic."
 			},
 			{
-				"name": "Pork Chops",
+				"name": "Eromba",
 				"image_url": "/images/pork-chops.jpg",
-				"description": "Pork chops are a staple in Iowa cuisine, where they're often served with a side of mashed potatoes."
+				"description": "Eromba, on the other hand, is a spicy and tangy dish made with mashed vegetables like potato, yam or pumpkin, mixed with smoked fish or meat, and flavored with chili, garlic, and mustard oil."
 			}
 		]
 	},
 	{
-		"name": "Kansas",
-		"capital": "Topeka",
-		"largest_city": "Wichita",
-		"abbreviation": "KS",
-		"region": "Midwest",
+		"name": " Meghalaya",
+		"capital": " Shillong",
+		"largest_city": "Shillong",
+		"abbreviation": "ML",
+		"region": "Northeast",
 		"image_url": "https://www.travellens.co/content/images/2022/08/Topeka-KS.jpg",
-		"description": "Kansas is a U.S. state located in the Midwest.",
+		"description": "Meghalaya is a northeastern state known for its lush green hills, stunning waterfalls, and unique tribal culture.",
 		"famous_foods": [
 			{
-				"name": "Kansas City Barbecue",
+				"name": "Jadoh",
 				"image_url": "/images/kansas-city-barbecue.jpg",
-				"description": "Kansas City barbecue is a popular dish in Kansas, where it's often served with a side of baked beans."
+				"description": "Jadoh is a traditional rice dish from Meghalaya that is cooked with meat and a variety of spices to create a flavorful and aromatic meal"
 			},
 			{
-				"name": "Kansas City Steak",
+				"name": "Dohkhlieh",
 				"image_url": "/images/kansas-city-steak.jpg",
-				"description": "Kansas City steak is a staple in Kansas cuisine, where it's often served with a side of baked beans."
+				"description": "Dohkhlieh is a salad-like dish that features minced pork mixed with onions, chilies, and other seasonings to create a spicy and tangy dish."
 			}
 		]
 	},
 	{
-		"name": "Kentucky",
-		"capital": "Frankfort",
-		"largest_city": "Louisville",
-		"abbreviation": "KY",
-		"region": "South",
+		"name": "Mizoram",
+		"capital": "Aizawl",
+		"largest_city": "Aizawl",
+		"abbreviation": "MZ",
+		"region": "Northeast",
 		"image_url": "https://mediaim.expedia.com/destination/1/de6054173d743dce3273f02266c5a6d6.jpg",
-		"description": "Kentucky is a U.S. state located in the South.",
+		"description": "Mizoram is a state located in the northeastern region of India, known for its scenic beauty, diverse culture, and vibrant traditions.",
 		"famous_foods": [
 			{
-				"name": "Kentucky Hot Brown",
+				"name": "Bai",
 				"image_url": "/images/kentucky-hot-brown.jpg",
-				"description": "Kentucky hot brown is a popular dish in Kentucky, where it's often served with a side of mashed potatoes."
+				"description": "Bai is a thick stew made with vegetables, meat or fish, and seasoned with a mix of local herbs and spices to give it a distinct flavor."
 			},
 			{
-				"name": "Kentucky Fried Chicken",
+				"name": "Vawksa Rep",
 				"image_url": "/images/kentucky-fried-chicken.jpg",
-				"description": "Kentucky fried chicken is a staple in Kentucky cuisine, where it's often served with a side of mashed potatoes."
+				"description": "Vawksa Rep is a preparation of smoked pork that is cooked with bamboo shoots and other spices. The smoking process gives the meat a unique flavor and texture, and the bamboo shoots add a tangy taste to the dish."
 			}
 		]
 	},
 	{
-		"name": "Louisiana",
-		"capital": "Baton Rouge",
-		"largest_city": "New Orleans",
-		"abbreviation": "LA",
-		"region": "South",
+		"name": "Nagaland",
+		"capital": "Kohima",
+		"largest_city": "Dimapur",
+		"abbreviation": "NL",
+		"region": "Northeast",
 		"image_url": "https://content.r9cdn.net/rimg/dimg/cd/68/d53afc6e-city-10501-171d052ebcc.jpg?width=1366&height=768&xhint=1993&yhint=1467&crop=true",
-		"description": "Louisiana is a U.S. state located in the South.",
+		"description": "Nagaland is a state in northeastern India known for its vibrant tribal culture and natural beauty, including hills and forests.",
 		"famous_foods": [
 			{
-				"name": "Crawfish Etouffee",
+				"name": "Axone",
 				"image_url": "/images/crawfish-etouffee.jpg",
-				"description": "Crawfish etouffee is a popular dish in Louisiana, where it's often served with a side of rice."
+				"description": "Axone is a pungent and flavorful curry made with fermented soybeans and often cooked with pork or beef."
 			},
 			{
-				"name": "Jambalaya",
+				"name": "Smoked pork",
 				"image_url": "/images/jambalaya.jpg",
-				"description": "Jambalaya is a staple in Louisiana cuisine, where it's often served with a side of rice."
+				"description": "Smoked pork with bamboo shoots is a popular meat dish in Nagaland, where the pork is smoked to preserve it and then cooked with fresh bamboo shoots and other spices to create a delicious and hearty meal."
 			}
 		]
 	},
 	{
-		"name": "Maine",
-		"capital": "Augusta",
-		"largest_city": "Portland",
-		"abbreviation": "ME",
-		"region": "Northeast",
+		"name": "Odisha",
+		"capital": "Bhubaneswar",
+		"largest_city": "Bhubaneswar",
+		"abbreviation": "OD",
+		"region": "East",
 		"image_url": "https://cdn.britannica.com/63/193263-050-F51B20F2/Augusta-Maine-Kennebec-River.jpg",
-		"description": "Maine is a U.S. state located in the Northeast.",
+		"description": "Odisha, located on the east coast of India, is known for its rich cultural heritage, ancient temples, and beautiful beaches.",
 		"famous_foods": [
 			{
-				"name": "Lobster Roll",
+				"name": "Pakhala",
 				"image_url": "/images/lobster-roll.jpg",
-				"description": "Lobster roll is a popular dish in Maine, where it's often served with a side of fries."
+				"description": "Pakhala is a traditional dish from Odisha that is prepared by soaking cooked rice in water and allowing it to ferment overnight. It is usually served with various side dishes like fried fish, papad, and vegetables."
 			},
 			{
-				"name": "Lobster Bisque",
+				"name": "Chhena Poda",
 				"image_url": "/images/lobster-bisque.jpg",
-				"description": "Lobster bisque is a staple in Maine cuisine, where it's often served with a side of fries."
+				"description": " Chhena Poda is a popular sweet dish that is made by caramelizing cottage cheese with sugar and cardamom, which is then baked to perfection."
 			}
 		]
 	},
 	{
-		"name": "Maryland",
-		"capital": "Annapolis",
-		"largest_city": "Baltimore",
-		"abbreviation": "MD",
-		"region": "South",
+		"name": "Punjab",
+		"capital": "Chandigarh",
+		"largest_city": "Ludhiana",
+		"abbreviation": "PB",
+		"region": "North",
 		"image_url": "https://www.annapolis.gov/ImageRepository/Document?documentID=18540",
-		"description": "Maryland is a U.S. state located in the South.",
+		"description": "Punjab is a state in northern India known for its vibrant culture, music, and agriculture, with a rich history and famous cuisine.",
 		"famous_foods": [
 			{
-				"name": "Maryland Crab Cakes",
+				"name": "Butter chicken",
 				"image_url": "/images/maryland-crab-cakes.jpg",
-				"description": "Maryland crab cakes are a popular dish in Maryland, where they're often served with a side of fries."
+				"description": "Butter chicken is a well-known dish that originated in Punjab, made by marinating pieces of chicken in a mixture of yogurt and spices, and then cooking them in a creamy tomato-based sauce, flavored with various spices. It is typically served with rice or naan bread."
 			},
 			{
-				"name": "Maryland Crab Soup",
+				"name": "Sarson Ka Saag with Makki Ki Roti",
 				"image_url": "/images/maryland-crab-soup.jpg",
-				"description": "Maryland crab soup is a staple in Maryland cuisine, where it's often served with a side of fries."
+				"description": "Sarson Ka Saag with Makki Ki Roti is a vegetarian dish made with mustard greens, spinach, and other vegetables, cooked with spices and ghee. It is traditionally eaten with Makki Ki Roti, a type of bread made with corn flour, which is flattened and cooked on a griddle."
 			}
 		]
 	},
 	{
-		"name": "Massachusetts",
-		"capital": "Boston",
-		"largest_city": "Boston",
-		"abbreviation": "MA",
-		"region": "Northeast",
+		"name": "Rajasthan",
+		"capital": "Jaipur",
+		"largest_city": "Jaipur",
+		"abbreviation": "RJ",
+		"region": "North",
 		"image_url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/530000/530953-cambridge-town.jpg",
-		"description": "Massachusetts is a U.S. state located in the Northeast.",
+		"description": "Rajasthan is a state in northern India known for its historical forts, palaces, and rich cultural heritage.",
 		"famous_foods": [
 			{
-				"name": "Boston Cream Pie",
+				"name": "Dal Baati Churma",
 				"image_url": "/images/boston-cream-pie.jpg",
-				"description": "Boston cream pie is a popular dish in Massachusetts, where it's often served with a side of ice cream."
+				"description": "Dal Baati Churma is a traditional and popular Rajasthani dish, which consists of a combination of three separate food items, namely dal, baati, and churma. Dal is a lentil soup that is mildly spiced and served with baati, a baked dough ball made from wheat flour, ghee (clarified butter), and milk. Churma is a sweet dessert made with wheat flour, ghee, and jaggery or sugar. It is usually served as a complement to the dal baati dish."
 			},
 			{
-				"name": "Boston Baked Beans",
+				"name": "Laal Maas",
 				"image_url": "/images/boston-baked-beans.jpg",
-				"description": "Boston baked beans is a staple in Massachusetts cuisine, where it's often served with a side of ice cream."
+				"description": "Laal Maas is a non-vegetarian dish that originated in Rajasthan and is known for its spicy and robust flavor. It is made with mutton or lamb and a combination of aromatic spices, including red chili paste, cumin, coriander, and garam masala. The meat is slow-cooked until it is tender and then served hot with rice or bread. The dish gets its name from the vibrant red color of the curry, which comes from the use of red chili paste."
 			}
 		]
 	},
 	{
-		"name": "Michigan",
-		"capital": "Lansing",
-		"largest_city": "Detroit",
-		"abbreviation": "MI",
-		"region": "Midwest",
+		"name": "Sikkim",
+		"capital": "Gangtok",
+		"largest_city": "Gangtok",
+		"abbreviation": "SK",
+		"region": "Northeast",
 		"image_url": "https://www.worldatlas.com/r/w768/upload/d4/a7/81/shutterstock-1848295390.jpg",
-		"description": "Michigan is a U.S. state located in the Midwest.",
+		"description": "Sikkim is a state in northeastern India known for its natural beauty, biodiversity, and as a popular destination for adventure tourism.",
 		"famous_foods": [
 			{
 				"name": "Michigan Cherry Pie",
