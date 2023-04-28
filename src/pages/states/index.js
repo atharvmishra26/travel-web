@@ -31,7 +31,7 @@ export default function StatesPage() {
     return (
         <>
             <Head>
-                <title>STATES - Explore USA</title>
+                <title>STATES - Explore India</title>
                 <meta name="description" content="Welcome to Explore USA! Discover the best places to visit, the most delicious foods to try, and the unique specials of each state in the United States." />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
@@ -43,7 +43,29 @@ export default function StatesPage() {
                     <h1 className="text-4xl  text-center font-bold text-gray-800 py-6">
                         Explore the {" "}
                         <span className="text-transparent uppercase bg-clip-text bg-gradient-to-r from-red-600 to-blue-600">
-                            United States
+                            India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                         </span>
                     </h1>
                     <div className='flex gap-1 mb-10'>
