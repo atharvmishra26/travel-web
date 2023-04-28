@@ -42,7 +42,7 @@ export default function StatesPage() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
                     <h1 className="text-4xl  text-center font-bold text-gray-800 py-6">
                         Explore the {" "}
-                        <span className="text-transparent uppercase bg-clip-text bg-gradient-to-r from-red-600 to-blue-600">
+                        <span className="text-transparent uppercase bg-clip-text bg-gradient-to-r from-orange-600 to-green-600">
                             India
 
 
@@ -79,7 +79,7 @@ export default function StatesPage() {
                             className="relative inline-flex items-center justify-center overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out rounded-full shadow-xl group hover:ring-1 px-12 py-3 "
                             onClick={handleSearch}
                         >
-                            <span class="absolute inset-0 w-full h-full bg-gradient-to-br from-red-600 via-purple-600 to-blue-700"></span>
+                            <span class="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-600  to-green-700"></span>
                             <span class="absolute bottom-0 right-0 block w-64 h-64 mb-32 mr-4 transition duration-500 origin-bottom-left transform rotate-45 translate-x-24 bg-blue-600 rounded-full opacity-30 group-hover:rotate-90 ease"></span>
                             <span className='relative text-white'>
                                 Search

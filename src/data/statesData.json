@@ -5,7 +5,7 @@
 		"largest_city": "Visakhapatnam",
 		"abbreviation": "AP",
 		"region": "Southeastern",
-		"image_url": "https://static01.nyt.com/images/2022/07/27/opinion/27kaiserschatzlein-9/merlin_210625494_5318b712-c310-479d-b1b8-b6d972dfa454-mobileMasterAt3x.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Talakona_forest%2C_Tirupati.jpg/800px-Talakona_forest%2C_Tirupati.jpg",
 		"description": "Andhra Pradesh, located in southeastern India, is known for its rich history, natural beauty, diverse cuisine, ancient temples, and traditional arts and crafts.",
 		"famous_foods": [
 			{
@@ -26,7 +26,7 @@
 		"largest_city": " Itanagar.",
 		"abbreviation": "AP",
 		"region": "Northeast",
-		"image_url": "https://uploads.alaska.org/advice/_640x560_crop_center-center_65_none/homepage-step1.jpg?mtime=20201111130705&focal=none&tmtime=20210629051457",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Golden_Pagoda_Namsai_Arunachal_Pradesh.jpg/1024px-Golden_Pagoda_Namsai_Arunachal_Pradesh.jpg",
 		"description": "Arunachal Pradesh, located in Northeast India, is a scenic state known for its Himalayan Mountains, diverse ethnic cultures, and wildlife.",
 		"famous_foods": [
 			{
@@ -47,7 +47,7 @@
 		"largest_city": "Guwahati",
 		"abbreviation": "AS",
 		"region": "Northeast",
-		"image_url": "https://lp-cms-production.imgix.net/2021-04/GettyImages-1282955095.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tea_gardens_of_Kaziranga_National_Park%2C_Assam.jpg/1024px-Tea_gardens_of_Kaziranga_National_Park%2C_Assam.jpg",
 		"description": "Assam in Northeast India is a state known for its tea gardens, national parks, ethnic diversity, and vibrant festivals like Bihu.",
 		"famous_foods": [
 			{
@@ -68,7 +68,7 @@
 		"largest_city": "Patna",
 		"abbreviation": "BH",
 		"region": "East",
-		"image_url": "https://d3qvqlc701gzhm.cloudfront.net/thumbs/0acef01816a88ac9f070b16071e1173dd2dc1bbe99cff0c24180a3cdffa0e81b-750.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rajgir_-_028_Bathing_Pool_at_foot_of_Hill_%289245042360%29.jpg/800px-Rajgir_-_028_Bathing_Pool_at_foot_of_Hill_%289245042360%29.jpg",
 		"description": "Bihar, located in East India, is a state known for its rich history, cultural heritage, and religious significance, as well as for producing famous intellectuals and leaders.",
 		"famous_foods": [
 			{
@@ -89,8 +89,8 @@
 		"largest_city": "Raipur",
 		"abbreviation": "CH",
 		"region": "Center",
-		"image_url": "https://media.california.com/media/_versions_webp/articles/downtown_san_francisco__3500x2335____v400x294__crop.webp",
-		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_ravishing_beauty_of_Chitrakote_falls.jpg/1920px-The_ravishing_beauty_of_Chitrakote_falls.jpg",
+		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls.",
 		"famous_foods": [
 			{
 				"name": "Farra",
@@ -105,13 +105,22 @@
 		]
 	},
 	{
+		"name": "New Delhi",
+		"capital": "Delhi",
+		"largest_city": "Delhi", 
+		"abbreviation": "ND",
+		"region": "Center",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/India_Gate_Sunset.jpg/1024px-India_Gate_Sunset.jpg",
+		"description": "New Delhi is the capital of India and a metropolitan city known for its rich history, diverse culture, and political significance."
+	},
+	{
 		"name": "Goa",
 		"capital": "Panjim",
 		"largest_city": "Vasco da Gama",
 		"abbreviation": "GA",
 		"region": "West",
-		"image_url": "https://kdvr.com/wp-content/uploads/sites/11/2022/11/GettyImages-1292267805.jpg",
-		"description": "Goa, a small state in western India, is known for its pristine beaches, colonial-era architecture, vibrant nightlife, rich history, and diverse cuisine that blends Indian, Portuguese, and seafood influences.",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1024px-BeachFun.jpg",
+		"description": "Goa, a small state in western India, is known for its pristine beaches, colonial-era architecture, vibrant nightlife, rich history, and diverse cuisine.",
 		"famous_foods": [
 			{
 				"name": "Fish Curry",
@@ -131,7 +140,7 @@
 		"largest_city": "Ahmedabad",
 		"abbreviation": "GJ",
 		"region": "West",
-		"image_url": "https://hartford.com/wp-content/uploads/2022/03/hartford-connecticut-usa-downtown-cityscape.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GujaratPhotoMontage.jpg/800px-GujaratPhotoMontage.jpg",
 		"description": "Gujarat is a western Indian state known for its rich cultural heritage, historic landmarks, vibrant textile industry, and mouth-watering vegetarian cuisine.",
 		"famous_foods": [
 			{
@@ -152,7 +161,7 @@
 		"largest_city": " Faridabad",
 		"abbreviation": "HR",
 		"region": "North",
-		"image_url": "https://www.visitdelaware.com/sites/default/files/styles/top_experience_xxxl_est_main/public/2021-04/_P9I8723-HDR-Edit-2-Final%402x.png?itok=JmTueaO7",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Madhogarh_Fort%2C_Haryana.jpg",
 		"description": "Haryana is a state in northern India known for its agricultural industry and vibrant cultural heritage.",
 		"famous_foods": [
 			{
@@ -173,7 +182,7 @@
 		"largest_city": "Shimla",
 		"abbreviation": "HP",
 		"region": "North",
-		"image_url": "https://www.state.gov/wp-content/uploads/2022/01/shutterstock_469708088.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Khajjiar.jpg/800px-Khajjiar.jpg",
 		"description": "Himachal Pradesh is a northern Indian state known for its scenic beauty, serene landscapes, and rich cultural heritage.",
 		"famous_foods": [
 			{
@@ -194,7 +203,7 @@
 		"largest_city": "Ranchi",
 		"abbreviation": "JH",
 		"region": "East",
-		"image_url": "https://www.exploregeorgia.org/sites/default/files/styles/slideshow_large/public/2022-06/tybee-pier-tybee-island-credit-benjamingalland.jpg?itok=ipHXREfM",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dassam_fall%2C_ranchi.jpg/800px-Dassam_fall%2C_ranchi.jpg",
 		"description": "Jharkhand is a state in eastern India known for its rich mineral resources and dense forests.",
 		"famous_foods": [
 			{
@@ -215,7 +224,7 @@
 		"largest_city": " Bangalore",
 		"abbreviation": "KA",
 		"region": "South",
-		"image_url": "https://www.treksplorer.com/wp-content/uploads/things-to-do-in-honolulu.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg",
 		"description": "Karnataka is a state in South India known for its rich cultural heritage, diverse cuisine, and beautiful landscapes, including forests, waterfalls, and beaches.",
 		"famous_foods": [
 			{
@@ -236,7 +245,7 @@
 		"largest_city": "Kochi",
 		"abbreviation": "KL",
 		"region": "South",
-		"image_url": "https://www.bankrate.com/2023/01/10112041/buying-a-house-in-idaho.jpg?auto=webp&optimize=high",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alappuzha_Boat_Beauty_W.jpg/1024px-Alappuzha_Boat_Beauty_W.jpg",
 		"description": "Kerala is a state on the southwestern coast of India known for its palm-lined beaches, backwaters, and network of canals.",
 		"famous_foods": [
 			{
@@ -257,7 +266,7 @@
 		"largest_city": "Indore",
 		"abbreviation": "MP",
 		"region": "Middle",
-		"image_url": "https://www.travelandleisure.com/thmb/wwUPgdpCUuD5sAPFLQf4YasjH0M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicago-illinois-CHITG0221-e448062fc5164da0bba639f9857987f6.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Khajuraho_Dulhadeo_2010.jpg/1024px-Khajuraho_Dulhadeo_2010.jpg",
 		"description": "Madhya Pradesh is a large central Indian state known for its rich cultural heritage, ancient temples, and diverse wildlife.",
 		"famous_foods": [
 			{
@@ -278,7 +287,7 @@
 		"largest_city": "Mumbai",
 		"abbreviation": "MH",
 		"region": "West",
-		"image_url": "https://www.in.gov/core/assets/img/home-bg-images/monument-circle-min.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gateway_of_India_-Mumbai.jpg/800px-Gateway_of_India_-Mumbai.jpg",
 		"description": "Maharashtra is a state in western India known for its vibrant capital Mumbai, and famous for its diverse culture, history, and landmarks.",
 		"famous_foods": [
 			{
@@ -299,7 +308,7 @@
 		"largest_city": "Imphal",
 		"abbreviation": "MN",
 		"region": "Northeast",
-		"image_url": "https://www.traveliowa.com/userdocs/cities/Skyline_at_night_-_Catch_Des_Moines.jpg?width=1920&format=jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg/1024px-Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg",
 		"description": "Manipur is a state in northeastern India known for its natural beauty, diverse culture, and rich history.",
 		"famous_foods": [
 			{
@@ -320,7 +329,7 @@
 		"largest_city": "Shillong",
 		"abbreviation": "ML",
 		"region": "Northeast",
-		"image_url": "https://www.travellens.co/content/images/2022/08/Topeka-KS.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Noakalikai_falls_1480244029215.jpg",
 		"description": "Meghalaya is a northeastern state known for its lush green hills, stunning waterfalls, and unique tribal culture.",
 		"famous_foods": [
 			{
@@ -341,7 +350,7 @@
 		"largest_city": "Aizawl",
 		"abbreviation": "MZ",
 		"region": "Northeast",
-		"image_url": "https://mediaim.expedia.com/destination/1/de6054173d743dce3273f02266c5a6d6.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg/1024px-Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg",
 		"description": "Mizoram is a state located in the northeastern region of India, known for its scenic beauty, diverse culture, and vibrant traditions.",
 		"famous_foods": [
 			{
@@ -362,7 +371,7 @@
 		"largest_city": "Dimapur",
 		"abbreviation": "NL",
 		"region": "Northeast",
-		"image_url": "https://content.r9cdn.net/rimg/dimg/cd/68/d53afc6e-city-10501-171d052ebcc.jpg?width=1366&height=768&xhint=1993&yhint=1467&crop=true",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Doyang_Lake_House.jpg/800px-Doyang_Lake_House.jpg",
 		"description": "Nagaland is a state in northeastern India known for its vibrant tribal culture and natural beauty, including hills and forests.",
 		"famous_foods": [
 			{
@@ -383,7 +392,7 @@
 		"largest_city": "Bhubaneswar",
 		"abbreviation": "OD",
 		"region": "East",
-		"image_url": "https://cdn.britannica.com/63/193263-050-F51B20F2/Augusta-Maine-Kennebec-River.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shri_Jagannatha_Temple.jpg/1024px-Shri_Jagannatha_Temple.jpg",
 		"description": "Odisha, located on the east coast of India, is known for its rich cultural heritage, ancient temples, and beautiful beaches.",
 		"famous_foods": [
 			{
@@ -404,7 +413,7 @@
 		"largest_city": "Ludhiana",
 		"abbreviation": "PB",
 		"region": "North",
-		"image_url": "https://www.annapolis.gov/ImageRepository/Document?documentID=18540",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg/800px-Golden_Temple%2C_Amritsar%2C_Punjab_UNAG.jpg",
 		"description": "Punjab is a state in northern India known for its vibrant culture, music, and agriculture, with a rich history and famous cuisine.",
 		"famous_foods": [
 			{
@@ -425,7 +434,7 @@
 		"largest_city": "Jaipur",
 		"abbreviation": "RJ",
 		"region": "North",
-		"image_url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/530000/530953-cambridge-town.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Amber_palace%2C_Jaipur.jpg/1024px-Amber_palace%2C_Jaipur.jpg",
 		"description": "Rajasthan is a state in northern India known for its historical forts, palaces, and rich cultural heritage.",
 		"famous_foods": [
 			{
@@ -446,7 +455,7 @@
 		"largest_city": "Gangtok",
 		"abbreviation": "SK",
 		"region": "Northeast",
-		"image_url": "https://www.worldatlas.com/r/w768/upload/d4/a7/81/shutterstock-1848295390.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sunrise_over_Kangchenjunga.jpg/1024px-Sunrise_over_Kangchenjunga.jpg",
 		"description": "Sikkim is a state in northeastern India known for its natural beauty, biodiversity, and as a popular destination for adventure tourism.",
 		"famous_foods": [
 			{
@@ -467,7 +476,7 @@
 		"largest_city": "Chennai",
 		"abbreviation": "TN",
 		"region": "South",
-		"image_url": "https://saint-paul-2022.s3.amazonaws.com/images/st._paul_skyline.jpg?v=1652382070",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mamallapuram_view.jpg/1024px-Mamallapuram_view.jpg",
 		"description": "Tamil Nadu is a southern state of India known for its rich cultural heritage, ancient temples, and traditional cuisine.",
 		"famous_foods": [
 			{
@@ -488,7 +497,7 @@
 		"largest_city": "Hyderabad",
 		"abbreviation": "TG",
 		"region": "South",
-		"image_url": "https://cdn.britannica.com/63/93563-050-65FC416F/State-capitol-building-cityscape-Jackson-Miss.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1196062-yadadri-temple.webp/1000px-1196062-yadadri-temple.webp.png",
 		"description": "Telangana is a state located in southern India, known for its rich history, cultural heritage, and delicious cuisine.",
 		"famous_foods": [
 			{
@@ -509,7 +518,7 @@
 		"largest_city": "Agartala",
 		"abbreviation": "TR",
 		"region": "Northeast",
-		"image_url": "https://www.worldatlas.com/upload/16/a2/14/shutterstock-1901321050.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tripura_State_Museum_Agartala_Tripura_India.jpg/1280px-Tripura_State_Museum_Agartala_Tripura_India.jpg",
 		"description": "Tripura is a state located in northeastern India known for its scenic beauty, rich culture, and unique handicrafts.",
 		"famous_foods": [
 			{
@@ -530,7 +539,7 @@
 		"largest_city": "Kanpur",
 		"abbreviation": "UP",
 		"region": "North",
-		"image_url": "https://southwestmt.com/blog-content/2021/08/Helena-from-above-the-Gulch-Rick-and-Susie-Graetz-scaled.jpg",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Taj_Mahal_%28105136313%29.jpeg/1024px-Taj_Mahal_%28105136313%29.jpeg",
 		"description": "Uttar Pradesh is a state in northern India known for its rich cultural heritage, historic monuments, and diverse cuisine.",
 		"famous_foods": [
 			{
@@ -551,18 +560,16 @@
 		"largest_city": "Dehradun",
 		"abbreviation": "UK",
 		"region": "North",
-		"image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/1d/lincoln.jpg?w=700&h=-1&s=1",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/1024px-Auli%2C_India.jpg",
 		"description": "Uttarakhand is a state in northern India known for its scenic beauty, pilgrimage sites, and adventure tourism.",
 		"famous_foods": [
 			{
 				"name": "Kafuli",
-				"image_url": "/images/nebraska-steak.jpg",
 				"description": "Kafuli is a traditional dish from Uttarakhand that is made with a mix of leafy greens like spinach, fenugreek, and other greens, which are finely chopped and then cooked with spices like garlic, cumin, and coriander. The dish has a distinct green color and is typically served with steamed rice or chapati."
 			},
 			{
 				"name": "Bal Mithai",
-				"image_url": "/images/nebraska-chili.jpg",
-				"description": "Bal Mithai is a popular sweet from Uttarakhand made with evaporated milk, khoya (reduced milk), and coated with tiny sugar balls called boora. The mixture is then rolled into small bite-sized balls and served. Some variations of Bal Mithai are also flavored with cardamom or chocolate. It is considered a delicacy in the state and is often given as a gift or eaten during special occasions."
+			    "description": "Bal Mithai is a popular sweet from Uttarakhand made with evaporated milk, khoya (reduced milk), and coated with tiny sugar balls called boora. The mixture is then rolled into small bite-sized balls and served. Some variations of Bal Mithai are also flavored with cardamom or chocolate. It is considered a delicacy in the state and is often given as a gift or eaten during special occasions."
 			}
 		]
 	},
@@ -572,17 +579,15 @@
 		"largest_city": "Kolkata",
 		"abbreviation": "WB",
 		"region": "East",
-		"image_url": "https://www.bankrate.com/2023/01/04160719/cost-of-living-in-vegas.jpg?auto=webp&optimize=high",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/1280px-Howrah_bridge_betwixt_Lights.jpg",
 		"description": "West Bengal is a state in eastern India known for its cultural richness, colonial heritage, and delectable cuisine.",
 		"famous_foods": [
 			{
 				"name": "Fish curry",
-				"image_url": "/images/nevada-steak.jpg",
 				"description": "Fish curry is a staple dish in West Bengal due to its proximity to the Bay of Bengal and its abundance of fresh seafood. The curry is typically made with fish such as Rohu, Hilsa, or Pabda and is cooked in a spicy tomato-based sauce with a variety of spices such as mustard seeds, cumin, and turmeric. It is often served with steamed rice and sometimes with a side of vegetables."
 			},
 			{
 				"name": "Rosogolla",
-				"image_url": "/images/nevada-chili.jpg",
 				"description": "Rosogolla, also known as Rasgulla, is a popular dessert in West Bengal and is made by kneading chhena, a type of cottage cheese, and shaping it into small balls, which are then boiled in a sugar syrup. The result is a spongy, syrupy sweet that is a favorite among Bengalis and is often served at special occasions such as weddings and festivals."
 			}
 		]
