@@ -12,11 +12,9 @@ const StateCard = ({ state }) => {
 					/>
 				</div>
 				<div className="p-6">
-					<Link href={`/states/${state.name.toLowerCase()}`}>
 						<h2 className="text-xl font-bold mb-2 hover:underline">
 							{state.name}
 						</h2>
-					</Link>
 					<p className="text-gray-600 mb-4 h-20">
 						{state.description}
 					</p>
