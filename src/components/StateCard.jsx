@@ -18,12 +18,12 @@ const StateCard = ({ state }) => {
 
 	return (
 		<div className="bg-white rounded-lg shadow-lg hover:shadow-2xl hover:scale-105 transition duration-500">
-			<div>
-				<div className="relative h-48 overflow-hidden">
+			<div className='flex'>
+				<div className="p-1">
 					<img
 						src={state.image_url}
 						alt={`Image of ${state.name}`}
-						className="absolute inset-0 object-cover w-full h-full rounded-t-lg"
+						className="w-[550px] h-[250px] object-fill"
 					/>
 				</div>
 				<div className="p-6">
