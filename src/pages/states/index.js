@@ -44,28 +44,6 @@ export default function StatesPage() {
                         Explore the {" "}
                         <span className="text-transparent uppercase bg-clip-text bg-gradient-to-r from-orange-600 to-green-600">
                             India
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                         </span>
                     </h1>
                     <div className='flex gap-1 mb-10'>
@@ -87,7 +65,7 @@ export default function StatesPage() {
                         </button>
                     </div>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-between">
+                    <div className="grid grid-cols-1 gap-8 justify-between">
                         {searchResults.length > 0
                             ? searchResults.map((state, idx) => (
                                 <StateCard key={idx} state={state} />

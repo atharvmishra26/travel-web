@@ -2,368 +2,182 @@
 	{
 		"name": "Andhra Pradesh",
 		"capital": "Visakhapatnam",
-		"largest_city": "Visakhapatnam",
+		"popularfood": "Andhra biryani, Upma, Idli and Dosa, Payasam",
 		"abbreviation": "AP",
-		"region": "Southeastern",
+		"popularmarkets": "The Amaravati Buddhist stupa, The Belum Caves, The Krishnaraja Sagar Dam",
+		"popularmonuments": "The Guntur Central Bazaar, The Vijayawada Central Bazaar, The Vizag Beach Market",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Talakona_forest%2C_Tirupati.jpg/800px-Talakona_forest%2C_Tirupati.jpg",
-		"description": "Andhra Pradesh, located in southeastern India, is known for its rich history, natural beauty, diverse cuisine, ancient temples, and traditional arts and crafts.",
-		"famous_foods": [
-			{
-				"name": "Hyderabadi Biryani",
-				"image_url": "/images/fried-chicken.jpg",
-				"description": "Hyderabadi Biryani is a fragrant rice dish from Hyderabad, usually made with meat and a blend of aromatic spices."
-			},
-			{
-				"name": " Andhra-style Chicken Fry",
-				"image_url": "/images/shrimp-grits.jpg",
-				"description": "Andhra-style Chicken Fry is a spicy and crispy deep-fried chicken dish marinated in a blend of aromatic spices."
-			}
-		]
+		"description": "Andhra Pradesh, located in southeastern India, is known for its rich history, natural beauty, diverse cuisine, ancient temples, and traditional arts and crafts."
 	},
 	{
 		"name": "Arunachal Pradesh",
 		"capital": " Itanagar",
-		"largest_city": " Itanagar.",
-		"abbreviation": "AP",
-		"region": "Northeast",
+		"popularfood": "",
+		"abbreviation": "AR",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Golden_Pagoda_Namsai_Arunachal_Pradesh.jpg/1024px-Golden_Pagoda_Namsai_Arunachal_Pradesh.jpg",
-		"description": "Arunachal Pradesh, located in Northeast India, is a scenic state known for its Himalayan Mountains, diverse ethnic cultures, and wildlife.",
-		"famous_foods": [
-			{
-				"name": "Thukpa",
-				"image_url": "/images/salmon.jpg",
-				"description": "A noodle soup made with vegetables, meat, and sometimes, eggs."
-			},
-			{
-				"name": "Momos",
-				"image_url": "/images/reindeer-sausage.jpg",
-				"description": "Steamed dumplings filled with meat or vegetables, served with spicy tomato or chili sauce."
-			}
-		]
+		"description": "Arunachal Pradesh, located in Northeast India, is a scenic state known for its Himalayan Mountains, diverse ethnic cultures, and wildlife."
 	},
 	{
 		"name": "Assam",
 		"capital": "Dispur",
-		"largest_city": "Guwahati",
+		"popularfood": "",
 		"abbreviation": "AS",
-		"region": "Northeast",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tea_gardens_of_Kaziranga_National_Park%2C_Assam.jpg/1024px-Tea_gardens_of_Kaziranga_National_Park%2C_Assam.jpg",
-		"description": "Assam in Northeast India is a state known for its tea gardens, national parks, ethnic diversity, and vibrant festivals like Bihu.",
-		"famous_foods": [
-			{
-				"name": "Assam Tea",
-				"image_url": "/images/tacos.jpg",
-				"description": "A strong, malty-flavored black tea that is famous around the world."
-			},
-			{
-				"name": "Masor Tenga",
-				"image_url": "/images/fry-bread.jpg",
-				"description": " A sour fish curry made with tomatoes and lemon, a signature dish of Assamese cuisine."
-			}
-		]
+		"description": "Assam in Northeast India is a state known for its tea gardens, national parks, ethnic diversity, and vibrant festivals like Bihu."
 	},
 	{
 		"name": "Bihar",
 		"capital": "Patna",
-		"largest_city": "Patna",
+		"popularfood": "",
 		"abbreviation": "BH",
-		"region": "East",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rajgir_-_028_Bathing_Pool_at_foot_of_Hill_%289245042360%29.jpg/800px-Rajgir_-_028_Bathing_Pool_at_foot_of_Hill_%289245042360%29.jpg",
-		"description": "Bihar, located in East India, is a state known for its rich history, cultural heritage, and religious significance, as well as for producing famous intellectuals and leaders.",
-		"famous_foods": [
-			{
-				"name": "Litti Chokha",
-				"image_url": "/images/catfish.jpg",
-				"description": " A traditional dish made of roasted wheat balls stuffed with sattu (gram flour), served with mashed potatoes, brinjal, and tomato chutney."
-			},
-			{
-				"name": "Chana Ghugni",
-				"image_url": "/images/pecan-pie.jpg",
-				"description": "A spicy curry made of black gram and potatoes, garnished with chopped onions, green chilies, and coriander leaves, often served with puri or paratha."
-			}
-		]
+		"description": "Bihar, located in East India, is a state known for its rich history, cultural heritage, and religious significance, as well as for producing famous intellectuals and leaders."
 	},
 	{
 		"name": "Chhattisgarh",
 		"capital": "Raipur",
-		"largest_city": "Raipur",
+		"popularfood": "",
 		"abbreviation": "CH",
-		"region": "Center",
+		"popularmarkets": "Center",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_ravishing_beauty_of_Chitrakote_falls.jpg/1920px-The_ravishing_beauty_of_Chitrakote_falls.jpg",
-		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls.",
-		"famous_foods": [
-			{
-				"name": "Farra",
-				"image_url": "/images/avocado-toast.jpg",
-				"description": " A steamed dumpling made of rice flour or wheat flour, stuffed with a mixture of chana dal, spices, and vegetables like peas, carrot, or beans, served with spicy chutney."
-			},
-			{
-				"name": "Chila",
-				"image_url": "/images/tacos.jpg",
-				"description": "A pancake-like dish made of gram flour, onion, tomatoes, coriander leaves, and spices, cooked on a griddle, and served with chutney or yogurt, popular for breakfast or snack."
-			}
-		]
+		"description": "Chhattisgarh, located in central India, is a state known for its rich cultural heritage, tribal communities, diverse wildlife, and natural resources, including forests, waterfalls."
 	},
 	{
 		"name": "New Delhi",
 		"capital": "Delhi",
-		"largest_city": "Delhi", 
+		"popularfood": "", 
 		"abbreviation": "ND",
-		"region": "Center",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/India_Gate_Sunset.jpg/1024px-India_Gate_Sunset.jpg",
 		"description": "New Delhi is the capital of India and a metropolitan city known for its rich history, diverse culture, and political significance."
 	},
 	{
 		"name": "Goa",
 		"capital": "Panjim",
-		"largest_city": "Vasco da Gama",
+		"popularfood": "",
 		"abbreviation": "GA",
-		"region": "West",
+		"popularmarkets": "West",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1024px-BeachFun.jpg",
-		"description": "Goa, a small state in western India, is known for its pristine beaches, colonial-era architecture, vibrant nightlife, rich history, and diverse cuisine.",
-		"famous_foods": [
-			{
-				"name": "Fish Curry",
-				"image_url": "/images/green-chili.jpg",
-				"description": "A spicy and tangy curry made with fresh fish, coconut milk, and spices like cumin, coriander, turmeric, and red chili, served with rice or bread."
-			},
-			{
-				"name": "Bebinca",
-				"image_url": "/images/denver-omelette.jpg",
-				"description": "A multi-layered pudding made with coconut milk, eggs, flour, sugar, and nutmeg, baked in a hot oven until golden brown and served as a dessert."
-			}
-		]
+		"description": "Goa, a small state in western India, is known for its pristine beaches, colonial-era architecture, vibrant nightlife, rich history, and diverse cuisine."
 	},
 	{
 		"name": "Gujarat",
 		"capital": "Gandhinagar",
-		"largest_city": "Ahmedabad",
+		"popularfood": "",
 		"abbreviation": "GJ",
-		"region": "West",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GujaratPhotoMontage.jpg/800px-GujaratPhotoMontage.jpg",
-		"description": "Gujarat is a western Indian state known for its rich cultural heritage, historic landmarks, vibrant textile industry, and mouth-watering vegetarian cuisine.",
-		"famous_foods": [
-			{
-				"name": "Dhokla",
-				"image_url": "/images/clam-chowder.jpg",
-				"description": "A steamed savory cake made from fermented batter of rice and chickpeas"
-			},
-			{
-				"name": "Thepla",
-				"image_url": "/images/steamed-clams.jpg",
-				"description": "A spiced flatbread made from wheat flour, methi leaves, and spices."
-			}
-		]
+		"description": "Gujarat is a western Indian state known for its rich cultural heritage, historic landmarks, vibrant textile industry, and mouth-watering vegetarian cuisine."
 	},
 	{
 		"name": "Haryana",
 		"capital": "Chandigarh",
-		"largest_city": " Faridabad",
+		"popularfood": "",
 		"abbreviation": "HR",
-		"region": "North",
+		"popularmarkets": "North",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Madhogarh_Fort%2C_Haryana.jpg",
-		"description": "Haryana is a state in northern India known for its agricultural industry and vibrant cultural heritage.",
-		"famous_foods": [
-			{
-				"name": "Kadhi",
-				"image_url": "/images/soft-pretzels.jpg",
-				"description": "yogurt-based curry"
-			},
-			{
-				"name": "Bajra Khichdi",
-				"image_url": "/images/chicken-cheesesteak.jpg",
-				"description": "A wholesome dish made with pearl millet and lentils."
-			}
-		]
+		"description": "Haryana is a state in northern India known for its agricultural industry and vibrant cultural heritage."
 	},
 	{
 		"name": "Himachal Pradesh",
 		"capital": "Shimla",
-		"largest_city": "Shimla",
+		"popularfood": "Shimla",
 		"abbreviation": "HP",
-		"region": "North",
+		"popularmarkets": "North",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Khajjiar.jpg/800px-Khajjiar.jpg",
-		"description": "Himachal Pradesh is a northern Indian state known for its scenic beauty, serene landscapes, and rich cultural heritage.",
-		"famous_foods": [
-			{
-				"name": "Chha Gosht",
-				"image_url": "/images/key-lime-pie.jpg",
-				"description": "Chha Gosht is a spicy lamb curry from Himachal Pradesh made with yogurt, ghee, and aromatic spices."
-			},
-			{
-				"name": "Siddu",
-				"image_url": "/images/shrimp.jpg",
-				"description": "Siddu is a traditional dish from Himachal Pradesh made of steamed bread stuffed with a mixture of mashed potatoes, spices, and herbs."
-			}
-		]
+		"description": "Himachal Pradesh is a northern Indian state known for its scenic beauty, serene landscapes, and rich cultural heritage."
 	},
 	{
 		"name": "Jharkhand",
 		"capital": "Ranchi",
-		"largest_city": "Ranchi",
+		"popularfood": "Ranchi",
 		"abbreviation": "JH",
-		"region": "East",
+		"popularmarkets": "East",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dassam_fall%2C_ranchi.jpg/800px-Dassam_fall%2C_ranchi.jpg",
-		"description": "Jharkhand is a state in eastern India known for its rich mineral resources and dense forests.",
-		"famous_foods": [
-			{
-				"name": "Dhuska",
-				"image_url": "/images/peach-cobbler.jpg",
-				"description": "Dhuska is a crispy deep-fried rice pancake that is commonly served for breakfast or as a snack in Jharkhand."
-			},
-			{
-				"name": "Rugda",
-				"image_url": "/images/chicken-and-waffles.jpg",
-				"description": " Rugda is a spicy meat and potato curry that is a popular main course dish in the state's cuisine."
-			}
-		]
+		"description": "Jharkhand is a state in eastern India known for its rich mineral resources and dense forests."
 	},
 	{
 		"name": "Karnataka",
 		"capital": " Bangalore",
-		"largest_city": " Bangalore",
+		"popularfood": "",
 		"abbreviation": "KA",
-		"region": "South",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1280px-Mysore_Palace_Morning.jpg",
-		"description": "Karnataka is a state in South India known for its rich cultural heritage, diverse cuisine, and beautiful landscapes, including forests, waterfalls, and beaches.",
-		"famous_foods": [
-			{
-				"name": "Bisi Bele Bath",
-				"image_url": "/images/hawaiian-pizza.jpg",
-				"description": "Bisi Bele Bath is a flavorful rice dish cooked with a blend of spices, vegetables, and lentils."
-			},
-			{
-				"name": "Mysore Masala Dosa",
-				"image_url": "/images/lomi-lomi-salmon.jpg",
-				"description": "Mysore Masala Dosa is a crispy rice crepe filled with spicy potato filling, popular as a breakfast or snack in Karnataka."
-			}
-		]
+		"description": "Karnataka is a state in South India known for its rich cultural heritage, diverse cuisine, and beautiful landscapes, including forests, waterfalls, and beaches."
 	},
 	{
 		"name": "Kerala",
 		"capital": "Thiruvananthapuram",
-		"largest_city": "Kochi",
+		"popularfood": "",
 		"abbreviation": "KL",
-		"region": "South",
+		"popularmarkets": "",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alappuzha_Boat_Beauty_W.jpg/1024px-Alappuzha_Boat_Beauty_W.jpg",
-		"description": "Kerala is a state on the southwestern coast of India known for its palm-lined beaches, backwaters, and network of canals.",
-		"famous_foods": [
-			{
-				"name": "Appam",
-				"image_url": "/images/baked-potato.jpg",
-				"description": "Appam is a fermented rice and coconut pancake, which is soft and spongy in texture and is usually served with a coconut-based stew."
-			},
-			{
-				"name": "Fish Curry",
-				"image_url": "/images/fried-potatoes.jpg",
-				"description": "Fish Curry is a spicy and tangy curry that is made with coconut milk, tamarind, and a blend of aromatic spices, and is usually served with steamed rice or Appam."
-			}
-		]
+		"description": "Kerala is a state on the southwestern coast of India known for its palm-lined beaches, backwaters, and network of canals."
 	},
 	{
 		"name": "Madhya Pradesh",
 		"capital": " Bhopal",
-		"largest_city": "Indore",
+		"popularfood": "Indore",
 		"abbreviation": "MP",
-		"region": "Middle",
+		"popularmarkets": "Middle",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Khajuraho_Dulhadeo_2010.jpg/1024px-Khajuraho_Dulhadeo_2010.jpg",
-		"description": "Madhya Pradesh is a large central Indian state known for its rich cultural heritage, ancient temples, and diverse wildlife.",
-		"famous_foods": [
-			{
-				"name": "Dal Bafla",
-				"image_url": "/images/deep-dish-pizza.jpg",
-				"description": "Dal Bafla is a staple food of Madhya Pradesh consisting of baked wheat dough balls served with a spicy lentil curry."
-			},
-			{
-				"name": "Bhutte Ka Kees",
-				"image_url": "/images/chicago-dog.jpg",
-				"description": "Bhutte Ka Kees is a popular street food made with grated corn, milk, and spices cooked together to form a creamy and flavorful dish."
-			}
-		]
+		"description": "Madhya Pradesh is a large central Indian state known for its rich cultural heritage, ancient temples, and diverse wildlife."
 	},
 	{
 		"name": "Maharashtra",
 		"capital": "Mumbai",
-		"largest_city": "Mumbai",
+		"popularfood": "Mumbai",
 		"abbreviation": "MH",
-		"region": "West",
+		"popularmarkets": "West",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gateway_of_India_-Mumbai.jpg/800px-Gateway_of_India_-Mumbai.jpg",
-		"description": "Maharashtra is a state in western India known for its vibrant capital Mumbai, and famous for its diverse culture, history, and landmarks.",
-		"famous_foods": [
-			{
-				"name": "Vada Pav",
-				"image_url": "/images/hoosier-sugar-cream-pie.jpg",
-				"description": "Vada Pav is a popular vegetarian street food that originated in Mumbai, consisting of a deep-fried potato fritter called vada sandwiched between a bread bun called pav, often served with chutney and fried green chilies."
-			},
-			{
-				"name": " Pav Bhaji",
-				"image_url": "/images/hoosier-hot-dog.jpg",
-				"description": " Pav Bhaji is a popular fast food dish consisting of a thick vegetable curry made with mashed vegetables, spices, and butter, served with toasted bread called pav. It is also a popular street food in Maharashtra and often served with diced onions and lemon wedges."
-			}
-		]
+		"description": "Maharashtra is a state in western India known for its vibrant capital Mumbai, and famous for its diverse culture, history, and landmarks."
 	},
 	{
 		"name": "Manipur",
 		"capital": "Imphal",
-		"largest_city": "Imphal",
+		"popularfood": "Imphal",
 		"abbreviation": "MN",
-		"region": "Northeast",
+		"popularmarkets": "Northeast",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg/1024px-Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg",
-		"description": "Manipur is a state in northeastern India known for its natural beauty, diverse culture, and rich history.",
-		"famous_foods": [
-			{
-				"name": "Chamthong",
-				"image_url": "/images/pork-tenderloin.jpg",
-				"description": "Chamthong is a popular Manipuri stew made with vegetables and fish or meat, seasoned with spices like ginger and garlic."
-			},
-			{
-				"name": "Eromba",
-				"image_url": "/images/pork-chops.jpg",
-				"description": "Eromba, on the other hand, is a spicy and tangy dish made with mashed vegetables like potato, yam or pumpkin, mixed with smoked fish or meat, and flavored with chili, garlic, and mustard oil."
-			}
-		]
+		"description": "Manipur is a state in northeastern India known for its natural beauty, diverse culture, and rich history."
 	},
 	{
 		"name": " Meghalaya",
 		"capital": " Shillong",
-		"largest_city": "Shillong",
+		"popularfood": "Shillong",
 		"abbreviation": "ML",
-		"region": "Northeast",
+		"popularmarkets": "Northeast",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Noakalikai_falls_1480244029215.jpg",
-		"description": "Meghalaya is a northeastern state known for its lush green hills, stunning waterfalls, and unique tribal culture.",
-		"famous_foods": [
-			{
-				"name": "Jadoh",
-				"image_url": "/images/kansas-city-barbecue.jpg",
-				"description": "Jadoh is a traditional rice dish from Meghalaya that is cooked with meat and a variety of spices to create a flavorful and aromatic meal"
-			},
-			{
-				"name": "Dohkhlieh",
-				"image_url": "/images/kansas-city-steak.jpg",
-				"description": "Dohkhlieh is a salad-like dish that features minced pork mixed with onions, chilies, and other seasonings to create a spicy and tangy dish."
-			}
-		]
+		"description": "Meghalaya is a northeastern state known for its lush green hills, stunning waterfalls, and unique tribal culture."
 	},
 	{
 		"name": "Mizoram",
 		"capital": "Aizawl",
-		"largest_city": "Aizawl",
+		"popularfood": "Aizawl",
 		"abbreviation": "MZ",
-		"region": "Northeast",
+		"popularmarkets": "Northeast",
+		"popularmonuments": "",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg/1024px-Champhai%2C_Mizoram%2C_from_south%2C_with_Zotlang_in_the_foreground.jpg",
-		"description": "Mizoram is a state located in the northeastern region of India, known for its scenic beauty, diverse culture, and vibrant traditions.",
-		"famous_foods": [
-			{
-				"name": "Bai",
-				"image_url": "/images/kentucky-hot-brown.jpg",
-				"description": "Bai is a thick stew made with vegetables, meat or fish, and seasoned with a mix of local herbs and spices to give it a distinct flavor."
-			},
-			{
-				"name": "Vawksa Rep",
-				"image_url": "/images/kentucky-fried-chicken.jpg",
-				"description": "Vawksa Rep is a preparation of smoked pork that is cooked with bamboo shoots and other spices. The smoking process gives the meat a unique flavor and texture, and the bamboo shoots add a tangy taste to the dish."
-			}
-		]
+		"description": "Mizoram is a state located in the northeastern region of India, known for its scenic beauty, diverse culture, and vibrant traditions."
 	},
 	{
 		"name": "Nagaland",
